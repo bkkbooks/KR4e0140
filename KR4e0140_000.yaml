@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0140/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0140_WYG_000-1a, image: WYG1259/WYG1259-0351a.png}
+body:
+  text: 吳文肅摘稿别集類五明提要臣等謹案吳文肅摘稿四卷明吳儼撰儼字克溫宜興人成化丁未進士官至南京禮部尚書諡文肅正德初儼主順天鄉試以為臣不易命題為劉瑾所怒以飛語罷去瑾誅乃復進用其程文今在集中存其事也其集初藏於家至萬歷甲申同邑王升武進莊煦及其從孫達可為選而存之其孫士遇始刋板故名曰摘稿史稱儼性方嚴操履清慎為文章莊重簡古詩詞清麗可諷今觀所作當何李未出以前猶守明初舊格無鉤棘塗飾之習其才其學雖皆不及李東陽之宏富而文筆舂容詩格亦嫻雅往往因題寓意不似當時臺閣流派沿為膚廓雖名不甚著要與東陽肩隨亦驂之靳也乾隆四十二年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:03986f71b483c2609c35f676d9c8516f95b3035a09b44993b25c1e61216f8f39
+metadata:
+  title: 吳文肅摘稿
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:21:51.844183'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0140/KR4e0140_000.txt
+hash: sha256:eabe950836a055f97582b50d2084f396a836466a9e4b9b2706b79ab2d87b0069
